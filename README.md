@@ -1,3 +1,3 @@
 # steam-database
 For my databases class I did a database similar to the popular Steam where I have tables for things like games, developers and so many more! Most of the things in there are just used for the requirements that I have for my laboratory assignments.
-(https://github.com/raresmoldo/steam-database/blob/main/database_diagram.png)
+<img src="database_diagram.png" alt="Database schema" width="800">
